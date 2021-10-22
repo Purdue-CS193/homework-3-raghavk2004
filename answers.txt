@@ -1,4 +1,5 @@
 Part 1: Write your message here from GitHub
+Hey my name is Raghav and I am a student in CS193.
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
