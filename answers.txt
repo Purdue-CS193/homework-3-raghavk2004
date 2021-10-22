@@ -3,6 +3,9 @@ Hey my name is Raghav and I am a student in CS193.
 
 Task 1: 
 // Under this line, describe what the command 'git fetch' does
+The command git fetch will fetch the information from the remote server
+and bring this information into my server. In other words it brings the 
+information from a repote repository into my local repository.
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
