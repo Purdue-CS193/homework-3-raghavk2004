@@ -4,10 +4,12 @@ git commit
 git push
 
 Q2: What does 'git clone' do? 
-
+Git clone points to an existing repository and makes a copy of it so that the repository can be copied/cloned into a new directory. In our instances we clone the repository on
+GitHub in order to copy it and bring it to our local directory. 
 
 Q3: What does 'git status' do?
-
+This tells us the state of my local repository. More specifically, whether or not the branch I am working on is up to date with the master branch.
+In short it tells you whether your work is most up to date with the master branch and if it is not how many commits behind it is. 
 
 Q4: What does "Your branch is up to date with 'origin/master'" tell you?
 
