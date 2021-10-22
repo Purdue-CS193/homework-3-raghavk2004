@@ -12,7 +12,7 @@ This tells us the state of my local repository. More specifically, whether or no
 In short it tells you whether your work is most up to date with the master branch and if it is not how many commits behind it is. 
 
 Q4: What does "Your branch is up to date with 'origin/master'" tell you?
-
+This means that the state and changes of my branch is the same as the master/origin branch. In other words it tells you if the content in your branch and the master branch is the same.
 
 Q5: You’ve made a change to a file in GitHub, the one on the browser, and now you run 'git status' on the terminal. It still says "Up to Date" despite the change. What command do you need to enter first?
 You need to run the command git fetch first. 
