@@ -9,4 +9,7 @@ information from a repote repository into my local repository.
 
 Task 2:
 // Under this line, describe the difference between Git and GitHub
-
+In short GitHub allows us to manage Git repositories and is a hosting service. 
+On the other hand Git is a distributed version control system. It helps track 
+changes in the source code. As a result, GitHub is just a service that allows
+us to host and store all of these Git repositories.
