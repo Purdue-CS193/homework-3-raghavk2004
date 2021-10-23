@@ -18,8 +18,9 @@ Q5: You’ve made a change to a file in GitHub, the one on the browser, and now 
 You need to run the command git fetch first. 
 
 Q6: You’ve just ran the 'rm' command and deleted an important file. All your code is deleted, not including the local repository. You only ran 'git add' and 'git commit' before the rogue command. Is your code saved?
-The code would not be saved since you did not run git push and push the changes yet. 
-
+So, the git add command will have added the changes to the code but not the original code itself to a working directory in the staging area. These changes will have been saved, but the original code would be gone. However, the code can be redownloaded and these changes can be then added to the original code. This would then help recover the changes and the code. 
+ 
 Q7: Your computer crashes and all your code is deleted, including the local repository. You only ran 'git add' and 'git commit'. Is your code saved?
-No because you did not push your changes. In order to push your changes you also have to run git push. 
+The code is not saved because you did not push your changes. In order to push your changes you also have to run git push. The problme here is that your local
+repository is also deleted. Only the work until the last push you have done is saved. 
 
